@@ -119,7 +119,7 @@
                              <div class=" font-weight-bold mb-2 Montreal-Serial ">
                                      <p class=" tabtext1 text-center mb-0">descargá la app que te ayudará  <br> a que tu negocio crezca</p>
                                     </div>
-                                    <div class="row text-sm-center">
+                                    <div class="row text-sm-center responsive-margin">
                                 <div class="col-md-8">
                                     <div class="row ">
                                         <div class="col-md-6"  >
@@ -129,7 +129,7 @@
                                     </div>
                                     <div class="">
                                     <div class="  mt-3">
-                                        <p class="  mb-0">Portafolio<br/>disponible</p>
+                                        <p class=" ml-2 mb-0">Portafolio<br/>disponible</p>
                                     </div>
                                     </div>
                                 </div>
@@ -154,7 +154,7 @@
                                     <img class="img-fluid icons" src="{{asset('assets/img/telefono.PNG')}}" alt="telefono">
                                     </div>
                                     <div class="  mt-3">
-                                        <p class="  mb-0">Pedidos<br/>en linea</p>
+                                        <p class=" ml-2 mb-0">Pedidos<br/>en linea</p>
                                     </div>
                                 </div>
                                         </div>
@@ -174,15 +174,15 @@
                                     <div class="row">
                                         <div class="col-12"  >
                                 <div class="d-flex align-self-sm-center justify justify-content-lg-around Montreal-Serial">
-                                      <div class=" tabtext">
-                                                <p class="  mb-0">Escanea el <br/> codigo qr <br/> y descarga <br/> la app</p>
+                                      <div class=" tabtext responsive-top">
+                                                <p class=" responsive-left mb-0">Escanea el <br/> codigo qr <br/> y descarga <br/> la app</p>
                                             </div>
                                 </div>
                                         </div>
                                     </div>
                                     <div class="row d-flex align-self-sm-center justify justify-content-lg-around montreal-medium">
                                         <div class="col-12"  >
-                              <img class="img-fluid " src="{{asset('assets/img/qr_GETM.png')}}" alt="qr" width="120px">
+                              <img class="img-fluid responsive-left1" src="{{asset('assets/img/qr_GETM.png')}}" alt="qr" width="120px">
                                 </div>
                                 
                                         </div>

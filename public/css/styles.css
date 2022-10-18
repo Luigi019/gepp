@@ -172,6 +172,18 @@ ul li a {
         margin-top: -10px;
         padding: 10px 10px 0;
     }
+    .responsive-margin {
+        margin-left: 3rem!important;
+    }
+    .responsive-top {
+        margin-top: 1rem!important;
+    }
+    .responsive-left {
+        margin-left: 1rem!important;
+    }
+    .responsive-left1 {
+        margin-left: 0.5rem!important;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -188,6 +200,18 @@ ul li a {
         margin-bottom: 10px;
         margin-top: -10px;
         padding: 10px 10px 0;
+    }
+    .responsive-margin {
+        margin-left: 3rem!important;
+    }
+    .responsive-top {
+        margin-top: 1rem!important;
+    }
+    .responsive-left {
+        margin-left: 1rem!important;
+    }
+    .responsive-left1 {
+        margin-left: 0.5rem!important;
     }
 }
 
