@@ -119,7 +119,7 @@
                              <div class=" font-weight-bold mb-2 Montreal-Serial ">
                                      <p class=" tabtext1 text-center mb-0">descargá la app que te ayudará  <br> a que tu negocio crezca</p>
                                     </div>
-                                    <div class="row text-sm-center responsive-margin">
+                                    <div class="row  responsive-margin">
                                 <div class="col-md-8">
                                     <div class="row ">
                                         <div class="col-md-6"  >
