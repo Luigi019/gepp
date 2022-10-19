@@ -11,7 +11,7 @@ class client extends Model
     static $rules = [
         'Nombre' => 'required',
         'Apellido' => 'required',
-        "email" => ["required", "unique"],
+        "email" => 'required|email|unique:clients',
         'telefono' => 'required',
     ];
     use HasFactory;
