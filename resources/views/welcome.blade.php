@@ -30,7 +30,7 @@
                                         <p class="secundarytext Montreal-Serial">accede y conoce<br/>
                                         los multiples materiales<br/>
                                     para impulsar tus ventas</p>
-                                    <img class="img-fluid" src="{{asset('assets/img/gepp.png')}}" alt="gepp" width="135px" >
+                                    <img class="img-fluid gepp" src="{{asset('assets/img/gepp.png')}}" alt="gepp" >
                                     </div>
                                     </div>
                                    
