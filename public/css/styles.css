@@ -164,6 +164,10 @@ ul li a {
     background-color: #fff!important;
 }
 
+.responsive-left1 {
+    margin-left: 0.8rem!important;
+}
+
 @media (max-width: 767px) {
     .responsive-tabs-container.accordion-xs .nav-tabs {
         display: none;
@@ -188,6 +192,9 @@ ul li a {
     }
     .responsive-left1 {
         margin-left: 0.5rem!important;
+    }
+    .responsive-left2 {
+        margin-left: 2.55rem!important;
     }
 }
 

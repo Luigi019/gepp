@@ -102,12 +102,12 @@
                                         
                                         </div>
                                     </div>
-                                    <div class="row">
-                                        <div class="ml-3 my-1 ">
+                                    <div class="row responsive-left2">
+                                        <div class="mx-3 my-1 ">
                                             <label class="">*Campos obligatorios</label>
                                         </div>
 
-                                        <button type="submit" class="btn btn-primary my-1 ml-3 text-uppercase submit-button">  ¡sumate!</button>
+                                        <button type="submit" class="btn btn-primary my-1 mx-3 text-uppercase submit-button">  ¡sumate!</button>
                                     </div>
 
 
@@ -119,7 +119,7 @@
                              <div class=" font-weight-bold mb-2 Montreal-Serial ">
                                      <p class=" tabtext1 text-center mb-0">descargá la app que te ayudará  <br> a que tu negocio crezca</p>
                                     </div>
-                                    <div class="row  responsive-margin">
+                                    <div class="row responsive-margin">
                                 <div class="col-md-8">
                                     <div class="row ">
                                         <div class="col-md-6"  >
