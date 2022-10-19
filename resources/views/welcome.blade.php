@@ -42,22 +42,22 @@
                                     <p class="maintext1 mt-4"><i>Estás a solo un clic  <br/>
                                     de conocer todos los beneficios</i></p>
                                     </div>
-                                <div class="col ">
+                                <div class="">
                                     <div class="text-decoration-none ">
-                                         <ul class="nav nav-tabs responsive-tabs justify-content-left maintitle Montreal-Serial">
-									<li class="active tabtext1 px-2"><a href="#login">Quiero ser Cliente</a></li>
-									<li class="tabtext1 px-2"><a href="#yasoy" class="mr-5 pr-2 ml-2">  Ya soy cliente</a></li>
+                                         <ul class="nav responsive-tabs justify-content-left maintitle Montreal-Serial">
+									<li class="active tabtext1 px-2 col-6"><a href="#login">Quiero ser Cliente</a></li>
+									<li class="tabtext1 px-2 col-6"><a href="#yasoy" class="">  Ya soy cliente</a></li>
 								  </ul>
                                     </div>
     							 
 								  <div class="tab-content mainform">
 									<div class="tab-pane active" id="login">
                                     <div class="row font-weight-bold mb-2 montreal-medium">
-                                        <div class="col-7">
+                                        <div class="col-lg-7 col-sm-12">
                                             <p class="mb-0"><i class="fa-solid fa-check redd"></i>Capacitaciones gratuitas en linea</p>
                                             <p class="mb-0"><i class="fa-solid fa-check redd"></i>Arma Posters de tus combos</p>
                                         </div>
-                                        <div class="col">
+                                        <div class="col-lg-5 col-sm-12">
                                            <p class="mb-0"><i class="fa-solid fa-check redd"></i>Comunica tu Whatsapp</p>
                                            <p class="mb-0"><i class="fa-solid fa-check redd"></i>Digitaliza tu Menú</p>
                                         </div>

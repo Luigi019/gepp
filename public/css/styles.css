@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Montreal-Serial';
+    src: url('../fonts/Montreal-Serial-Heavy-RegularItalic.ttf');
+    font-family: 'montreal-medium';
+    src: url('../fonts/Montreal-Medium.ttf');
+}
+
+
 /* Prelaoder */
 
 #preloader {
@@ -38,11 +46,11 @@ body {
 }
 
 .Montreal-Serial {
-    font-family: 'montreal-serial-heavy-regular', sans-serif;
+    font-family: 'Montreal-Serial', sans-serif;
 }
 
 .montreal-medium {
-    font-family: 'montreal-medium-regular', sans-serif;
+    font-family: 'montreal-medium', sans-serif;
 }
 
 ul li a {
@@ -160,9 +168,6 @@ ul li a {
     .responsive-tabs-container.accordion-xs .nav-tabs {
         display: none;
     }
-    .responsive-tabs-container.accordion-xs .accordion-link {
-        display: block;
-    }
     .responsive-tabs-container[class*="accordion-"] .tab-pane {
         border-top: none;
         border-top-left-radius: 0;
@@ -190,9 +195,6 @@ ul li a {
     .responsive-tabs-container.accordion-sm .nav-tabs {
         display: none;
     }
-    .responsive-tabs-container.accordion-sm .accordion-link {
-        display: block;
-    }
     .responsive-tabs-container[class*="accordion-"] .tab-pane {
         border-top: none;
         border-top-left-radius: 0;
@@ -219,17 +221,11 @@ ul li a {
     .responsive-tabs-container.accordion-md .nav-tabs {
         display: none;
     }
-    .responsive-tabs-container.accordion-md .accordion-link {
-        display: block;
-    }
 }
 
 @media (min-width: 1200px) {
     .responsive-tabs-container.accordion-lg .nav-tabs {
         display: none;
-    }
-    .responsive-tabs-container.accordion-lg .accordion-link {
-        display: block;
     }
 }
 
